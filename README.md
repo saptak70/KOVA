@@ -7,7 +7,7 @@ RV32I · SKY130 130nm · Built from scratch by a solo ECE student.
 🟡 Phase 1 — Verilog mastery (in progress)
 
 ## Roadmap
-- [ ] Phase 1 — Verilog mastery
+- [✔] Phase 1 — Verilog mastery
 - [ ] Phase 2 — Computer architecture
 - [ ] Phase 3 — RISC-V core (simulation)
 - [ ] Phase 4 — FPGA validation
